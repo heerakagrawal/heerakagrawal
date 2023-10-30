@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gojo0810
 - 👀 I’m interested in ...AIML
-- 🌱 I’m currently learning ...machine learning
+- 🌱 I’m currently learning ...Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
