@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gojo0810
+- 👋 Hi, I’m @heerakagrawal
 - 👀 I’m interested in ...AIML
 - 🌱 I’m currently learning ...Machine learning
 - 💞️ I’m looking to collaborate on ...
